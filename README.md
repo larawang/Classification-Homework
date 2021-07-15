@@ -1,17 +1,17 @@
 # Classification-Homework
 
-##Credit Risk Resampling Techniques
+## Credit Risk Resampling Techniques
 
 Final Conclusion:
 
-1.SMOTE model had the best balanced accuracy score.
+1. SMOTE model had the best balanced accuracy score.
 
-2.All models had the best performance of recall score.
+2. All models had the best performance of recall score.
 
-3.All models had the best performance of geometric mean scores.
+3. All models had the best performance of geometric mean scores.
 
 
-##Ensemble Learning
+## Ensemble Learning
 
 Final Conclusion:
 
